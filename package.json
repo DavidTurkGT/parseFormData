@@ -1,0 +1,26 @@
+{
+  "name": "parseaform",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidTurkGT/parseFormData.git"
+  },
+  "author": "David Turk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidTurkGT/parseFormData/issues"
+  },
+  "homepage": "https://github.com/DavidTurkGT/parseFormData#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "express-validator": "^3.2.0",
+    "mustache": "^2.3.0",
+    "mustache-express": "^1.2.4"
+  }
+}
